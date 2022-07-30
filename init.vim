@@ -1,4 +1,4 @@
-set mouse=v                 " middle-click paste with
+:
 set hlsearch                " highlight search
 set incsearch               " incremental search
 set tabstop=4               " number of columns occupied by a tab
@@ -43,6 +43,7 @@ Plug 'https://github.com/terryma/vim-multiple-cursors' " CTRL + N for multiple c
 Plug 'https://github.com/bfrg/vim-cpp-modern'
 Plug 'rust-lang/rust.vim'
 Plug 'jiangmiao/auto-pairs'
+Plug 'dense-analysis/ale'
 
 set encoding=UTF-8
 

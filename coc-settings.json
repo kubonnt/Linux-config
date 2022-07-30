@@ -11,4 +11,6 @@
       }
   }
 }
+"rust-analyzer.enable": true
 }
+
